@@ -9,7 +9,7 @@ public class Input {
                 int b = sc.nextInt();
 
                 try (Scanner sc1 = new Scanner(System.in)) {
-                    System.out.print("Enter Second22 number- ");
+                    System.out.print("Enter Second number- ");
                     int a = sc1.nextInt();
                     int c = (a + b);
                     System.out.println(c);
